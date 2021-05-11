@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/Users/kane/Desktop/dev/bazooka-web/src/app/shared/components/product-thumbnail'
+let g:netrw_dirhist_0='/Users/kane/Desktop/dev/bazooka-web/src/app/modules/catalog'
+let g:netrw_dirhist_9='/Users/kane/Desktop/dev/bazooka-web/src/app/modules'
+let g:netrw_dirhist_8='/Users/kane/Desktop/dev/bazooka-web/src/app/modules/tagging'
+let g:netrw_dirhist_7='/Users/kane/Desktop/dev/bazooka-web/src/app/modules/tagging/enrichment'
+let g:netrw_dirhist_6='/Users/kane/Desktop/dev/bazooka-web/src/app/modules/tagging/enrichment/pages'
+let g:netrw_dirhist_5='/Users/kane/Desktop/dev/bazooka-web/src/app/modules/tagging/enrichment/pages/enrichment-app-list'
+let g:netrw_dirhist_4='/Users/kane/Desktop/dev/bazooka-web'
+let g:netrw_dirhist_3='/Users/kane'
+let g:netrw_dirhist_2='/Users/kane/Desktop'
